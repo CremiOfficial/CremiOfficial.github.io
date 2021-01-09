@@ -1,0 +1,12 @@
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(image/Anime.jpg);
+    color: #fff;
+    font-family: sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.button a {
+    text-decoration: none;
+}
